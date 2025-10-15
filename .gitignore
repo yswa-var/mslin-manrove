@@ -1,0 +1,5 @@
+_site/
+.cache/
+.cecil/
+.DS_Store
+*.log

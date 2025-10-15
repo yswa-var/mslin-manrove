@@ -1,0 +1,16 @@
+taxonomies:
+  tags: tag
+pages:
+  pagination:
+    max: 5
+    path: page
+hyde:
+  sidebar:
+    sticky: true # Content to the bottom of the sidebar
+  theme: ''      # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
+  reverse: false # Reverse layout
+  fonts: google  # google or local
+libs:
+  highlight:
+    version: 11.4.0
+    style: monokai-sublime

@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-17 00:44+0200\n"
+"PO-Revision-Date: 2023-09-17 00:44+0200\n"
+"Last-Translator: Arnaud Ligny <arnaud@ligny.org>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ../layouts\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: _default/list.html.twig:22 index.html.twig:17
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: _default/page.html.twig:58
+msgid "Powered by %powered_by%."
+msgstr "Propulsé par %powered_by%."
+
+#: partials/lastposts.html.twig:2
+msgid "Recent posts"
+msgstr "Articles récents"
+
+#: partials/pagination.html.twig:5 partials/pagination.html.twig:7
+msgid "Older"
+msgstr "Plus ancien"
+
+#: partials/pagination.html.twig:10 partials/pagination.html.twig:12
+msgid "Newer"
+msgstr "Plus récent"

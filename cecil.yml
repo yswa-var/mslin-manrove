@@ -1,0 +1,32 @@
+title: 'Yash'
+baseline: 'yswa-var'
+baseurl: /
+description: 'yswa.var@icloud.com'
+author:
+  name: Yash
+  url: 'https://github.com/yswa-var'
+image: icon.png
+taxonomies:
+  tags: tag
+
+menus:
+  main:
+    - id: projects
+      name: Projects
+      url: /projects/
+      weight: 30
+    - id: resume
+      name: Resume
+      url: /resume/
+      weight: 40
+
+
+theme:
+  - hyde
+
+hyde:
+  sidebar:
+    sticky: true
+  theme: 'blue'
+  reverse: false
+  fonts: 'google'

@@ -20,6 +20,7 @@ jobs:
         with:
           php-version: '8.4'
           extensions: mbstring, fileinfo, gd, imagick, intl, gettext
+          coverage: none
       - name: Restore Cecil cache
         uses: actions/cache/restore@v4
         with:
@@ -30,8 +31,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - name: Build with Cecil
         uses: Cecilapp/Cecil-Action@v3
         with:

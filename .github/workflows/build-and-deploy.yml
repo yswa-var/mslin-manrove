@@ -20,7 +20,6 @@ jobs:
         with:
           php-version: '8.4'
           extensions: mbstring, fileinfo, gd, imagick, intl, gettext
-          coverage: none
       - name: Restore Cecil cache
         uses: actions/cache/restore@v4
         with:

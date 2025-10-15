@@ -17,6 +17,13 @@ After that I shifted to Python for algo-trading, did 3 internships (micro-teams)
 
 Then started working as a full-time software developer (mostly on data pipelines, LMS infra, notification system, and internal automations) at a mid-level startup that got dissolved after a year.
 
-Now I’m deep into building AI-first systems mostly around LangGraph-based agentic architectures, orchestration, reasoning pipelines, and experimental automation tools.
+Now I'm deep into building AI-first systems mostly around LangGraph-based agentic architectures, orchestration, reasoning pipelines, and experimental automation tools.
 
-Preparing me'self for ai-world-domination/abomination. 
+Preparing me'self for ai-world-domination/abomination.
+
+## Connect
+
+- **Email**: [yswa.var@icloud.com](mailto:yswa.var@icloud.com)
+- **GitHub**: [github.com/yswa-var](https://github.com/yswa-var)
+- **LinkedIn**: [linkedin.com/in/yashaswa-varshney](https://in.linkedin.com/in/yashaswa-varshney)
+- **Medium**: [medium.com/@yashaswa](https://medium.com/@yashaswa) 

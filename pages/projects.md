@@ -7,7 +7,9 @@ published: true
 
 ---
 
-## DuckLog
+**Index**: [DuckLog](#ducklog) · [RFP-bid](#rfp-bid) · [LangTrade](#langtrade) · [Dynamic Relative Rotation Graph](#dynamic-relative-rotation-graph) · [Vectoria](#vectoria) · [SolMPC-node](#solmpc-node)
+
+## <a id="ducklog"></a>DuckLog
 
 ![DuckLog](/ducklog.png)
 
@@ -20,7 +22,7 @@ Designed for fast debugging workflows around tracking IDs, vendor lookup failure
 
 ---
 
-## RFP-bid
+## <a id="rfp-bid"></a>RFP-bid
 
 ![rfp-bid](/rfp-bid.png)
 
@@ -31,7 +33,7 @@ Features: word document CURD operations (cursor like editing and chatting), char
  Uses multiple Rag's,  session based rags (rfp document) and long term rags (previous examples).
 
 ---
-## LangTrade
+## <a id="langtrade"></a>LangTrade
 
 ![LangTrade](/langTrade.png)
 
@@ -41,7 +43,7 @@ Open source agentic workflow to quickly test complex trading theories / strategi
 
 ---
 
-## Dynamic Relative Rotation Graph (RRG)
+## <a id="dynamic-relative-rotation-graph"></a>Dynamic Relative Rotation Graph (RRG)
 
 ![rrg](/rrg.png)
 
@@ -53,7 +55,7 @@ visualization tool used to analyze and compare the performance of various securi
 
 ---
 
-## Vectoria
+## <a id="vectoria"></a>Vectoria
 
 ![vecto](/vectoria.png)
 
@@ -73,7 +75,7 @@ A powerful ollama based personal note management system built in Rust, vector em
 
 ---
 
-## SolMPC-node
+## <a id="solmpc-node"></a>SolMPC-node
 
 ![solmcp-node](/sol.png)
 
@@ -84,4 +86,3 @@ A secure Multi-Party Computation (MPC) validator network designed specifically f
 **Technologies**: Rust, Solana, MPC (Multi-Party Computation), Blockchain Security
 
 ---
-

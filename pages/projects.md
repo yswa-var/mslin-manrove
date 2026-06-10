@@ -4,6 +4,20 @@ description: "A showcase of my favorite projects in agentic AI and web3"
 date: 2025-01-27
 published: true
 ---
+
+---
+
+## DuckLog
+
+![DuckLog](/ducklog.png)
+
+[GitHub Repository](https://github.com/yswa-var/ducklogs)
+
+A terminal-based AI copilot for investigating CloudWatch application logs using DuckDB and OpenRouter.  
+Features: CloudWatch log ingestion, Go-based structured log parsing, DuckDB storage/querying, natural-language-to-SQL generation, read-only SQL validation, Markdown report generation, and a Bubble Tea TUI for asking log questions, previewing SQL, ingesting logs, and reviewing rendered reports.
+
+Designed for fast debugging workflows around tracking IDs, vendor lookup failures, status transitions, and structured application events.
+
 ---
 
 ## RFP-bid
